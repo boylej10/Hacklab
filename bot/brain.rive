@@ -1,0 +1,74 @@
+! version = 2.0
+
+// Substitutions
+! sub i'm     = i am
+! sub i'd     = i would
+! sub i've    = i have
+! sub i'll    = i will
+! sub don't   = do not
+! sub isn't   = is not
+! sub you'd   = you would
+! sub you're  = you are
+! sub you've  = you have
+! sub you'll  = you will
+! sub what's  = what is
+! sub whats   = what is
+! sub what're = what are
+! sub what've = what have
+! sub what'll = what will
+! sub who's   = who is
+
++ hello
+- Hi, how are you?
+
++ hello bot
+- Hi, how are you?
+
++ hi
+- Hi, how are you?
+
++ hey
+- Hi, how are you?
+
++ I am good
+- Good to hear
+- Why is that?
+
++ What is the weather like?
+- There's a window, use it
+
++ There is no window
+- Leave the laptop and go outside
+
++ What is the weather?
+- It's always sunny somewhere
+
++ What time is it?
+- I have no concept of time, I am just a series of ones and zeros
+
++ What is the time?
+- Are you not wearing a watch?
+
++ I am okay
+- Only okay?
+
++ I am ok
+- Only ok?
+
++ Okay
+- Only okay?
+
++ Ok
+- Only ok?
+
++ I am alright
+- Good to hear
+- Are you sure?
+
++ *
+- I am sorry I didn't understand that, try saying hello
+
+- how are you?
++ I know no feeling
++ That is a deep question
++ how long is a piece of string?
